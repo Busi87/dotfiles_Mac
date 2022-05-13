@@ -1,5 +1,8 @@
 # Dotfiles for Mac OS
 
+This is some dotfiles and scripts than it's usefull for customizing OS X/Linux to setting up the software development tools than i used to use on daily basis. 
+It includes a setup script that creates the symlinks from your home directory to the cloned repository.
+
 Requirements
 
 - Install prezto & zsh as shell (https://github.com/sorin-ionescu/prezto)
