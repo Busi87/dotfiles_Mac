@@ -51,3 +51,8 @@ cd ~/.GIS-lm-build
 rm -rf local
 bin/lm install
 ```
+
+## Use vim editor on commit sign
+```
+git config --global core.editor "vim"
+```
