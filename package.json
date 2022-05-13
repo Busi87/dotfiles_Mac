@@ -1,0 +1,11 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Busi87/dotfiles.git",
+  "author": "Eric Busquets <ebusquetschou@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "3.16.0"
+  }
+}
